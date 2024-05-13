@@ -2,7 +2,7 @@
 
 ## Mentee/Mentor
 
-- [ ] Sign Up: Register for an account on the mentorship platform to access mentorship features.
+- [x] Sign Up: Register for an account on the mentorship platform to access mentorship features.
 - [ ] Complete Profile: Fill out my profile with information about my skills, interests, and career goals.
 - [ ] Search for Mentors: Find mentors based on criteria such as skills, experience, and availability.
 - [ ] Connect with Mentors: Initiate communication with mentors to seek guidance, ask questions, and engage in discussions.
